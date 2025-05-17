@@ -74,3 +74,6 @@ java Main
 Insertar números uno por uno en el prompt Número >.
 
 Finalizar con exit o -1.
+
+VIDEO EN YOUTUBE
+https://youtu.be/4W19qe6trWw
